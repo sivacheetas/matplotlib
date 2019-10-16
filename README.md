@@ -1,2 +1,2 @@
-# matplotlib
-line plot
+# python basic
+python 
